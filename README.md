@@ -5,3 +5,4 @@ Activity report of student induction programme 2024
 | DATE | RESOURCE PERSON | TOPIC |
 | --- | --- | --- |
 | 11-07-2024 | Dr. Arwind Dhingra | Systematic Training And Education Programme |
+### Sir delivered some valuable words and their role in one's life by listing all the following  details:- ###
