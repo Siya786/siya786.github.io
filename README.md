@@ -16,7 +16,7 @@ Activity report of student induction programme 2024
 1. **Members**-Committed exclusively to one task
 2. **Active members**-engaged in all types of activities
 3. **Executive member**-who implement the plan or activity and handle all arrangements
-4. **Office bearer**-excellent in all areas
+4. **Office bearer**-excellent in all areas.
 - Sir told us about two types of socities:-
    1. **National level society**
   2.  **College level society**
@@ -29,6 +29,7 @@ Activity report of student induction programme 2024
   these are the college level societies
   - **(ISHRAE), (ASME), (CSI), (PFA), Causmic Club, English Club, E-cell and IIC, ITIAN Club**
   - The lecturer concluded by emphasizing the 3 P's of Success: **Passion, Persistence, and Patience**
+    
 ---
 
 | Date | Resource person | topic |
@@ -36,7 +37,19 @@ Activity report of student induction programme 2024
 | 11-07-2024 | Dr. Parminder Singh | About Various College Facilities |
 
 ## ***Sir told about the various facilities provided by the college for students as follows:-*** ##
-
+- The college campus includes four hostels (**three for boys and one for girls**)
+- College provide its own wifi internet facility and some commonrooms like tv,indoor games.
+- A Mess Committee is in place to oversee menu variety, generate  and take care of food quality.
+- The campus has three computer labs with a total of 100 computers. These labs feature high-speed internet.
+  There is a library having a total of 93453 boooks.
+- There are also E-books and AC reading halls.
+- there are total 17 playground for different games like volleyball,football,basketball etc.
+- The **NSS (National Service Scheme)** oversees activities like tree planting, blood donation, and cleanliness drives.
+- There is an NCC (National Cadet Corps) company in the campus of itself having army wing and air wing.
+- There is Association of Civil Engineering Students (ACES)
+- GNDEC Alumini scholarship
+- UG scholarships.
+  
 
 
 
