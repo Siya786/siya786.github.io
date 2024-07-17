@@ -63,6 +63,30 @@ Activity report of student induction programme 2024
   - He talked about the concept of **DRY ( Do not Repeat Yourself)**
   - In web development, it's often said that making mistakes is part of the learning process. The key to a successful career lies in learning from these mistakes and ensuring they are not repeated.
   - Concluding his lecture, he mentioned his Telegram group **CodeGNE**, which assists aspiring developers in working on significant projects as beginners, thereby enhancing their skills for future opportunities with large companies.
+
+    ----
+
+    | Date | Resource Person | Topic |
+    | --- | --- | --- |
+    | 12-07-2024 | Seniors of 2nd year | Exam pattern and about gndec website |
+
+    - **seniors told uss  following things about exam pattern:-**
+    - They told us about theory subjects and SGP system.
+    - Internal paper is of 40 marks total which include:-
+      1. Assignment= 10 marks
+      2. Attendancde= 6 marks
+      3. MSE1= 24 Mmarks
+      4. MSE2 = 24 marks
+      5. average will be taken from MSE1 and MSE2
+      - External is of 60 marks
+      - they told us about the importance of MSE and attendance.
+      - they also told us how to calculate SGP
+      - **About gndec website**
+      - go to [www.gndec.ac.in](http://example.com)
+      - 
+      
+    
+  
    
    
 
