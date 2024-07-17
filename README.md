@@ -19,6 +19,22 @@ Activity report of student induction programme 2024
    -Sir told us about two types of socities:-
    1.**National level society**
    2.**College level society**
+- SCIE **(Student chapter of institution og engineers)**- It is an organization responsible for overseeing the field of engineering, encompassing 17 engineering disciplines.
+- It was created in   1969 in **GNDEC**. Membership **fee**- **536 rupees**
+- **Indian Society For Technical Education, New Delhi (ISTE)**
+  These are the national level societies
+  - **Electrical Engineering Staff and Students (E2S2) society.**
+- **Society of Automotive Engineers (SAE)**
+  these are the college level societies
+  - **(ISHRAE), (ASME), (CSI), (PFA), Causmic Club, English Club, E-cell and IIC, ITIAN Club**
+  - The lecturer concluded by emphasizing the 3 P's of Success: **Passion, Persistence, and Patience.**
+
+
+
+
+
+
+
 
 
 
