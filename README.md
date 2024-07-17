@@ -82,7 +82,7 @@ Activity report of student induction programme 2024
       - they told us about the importance of MSE and attendance.
       - they also told us how to calculate SGP
       - **About gndec website**
-      - go to [www.gndec.ac.in](http://example.com)
+      - go to [www.gndec.ac.in](http://example.com).
       - they told us every single point of website.
       -  How to check updated notice?
       -  They also told us about how to get the documents and result on website.
