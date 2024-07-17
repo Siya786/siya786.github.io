@@ -31,7 +31,11 @@ Activity report of student induction programme 2024
   - The lecturer concluded by emphasizing the 3 P's of Success: **Passion, Persistence, and Patience.**
 ---
 
+| Date | Resource person | topic |
+| --- | --- | --- |
+| 11-07-2024 | Dr. Parminder Singh | About Various College Facilities |
 
+## ***Sir told about the various facilities provided by the college for students as follows:-*** ##
 
 
 
