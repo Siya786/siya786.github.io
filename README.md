@@ -86,6 +86,25 @@ Activity report of student induction programme 2024
       - they told us every single point of website.
       -  How to check updated notice?
       -  They also told us about how to get the documents and result on website.
+
+      ---
+
+      | Date | Resource Person | Topic |
+      | --- | --- | --- |
+      | 12-07-2024 |    | Mathematics |
+
+    **In her lecture,professor told us the following things:-**
+    - concept of integration.
+    -  She also explain the concept of degree and order.
+    -  told us about various types;-
+      1. Ordinary differential equation
+      2. partial differential equatio.
+    - she also explain the concept of solution of a differential equation
+    - various types of solution:-
+      1. General solution
+      2. particular solution
+      3. singular solution
+      
          
       
     
