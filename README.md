@@ -49,6 +49,45 @@ Activity report of student induction programme 2024
 - There is Association of Civil Engineering Students (ACES)
 - GNDEC Alumini scholarship
 - UG scholarships.
+
+  ---
+
+  | Date | Resource Person | Topic |
+  |--- | --- | --- |
+  | 11-07-2024 | Dr.HS Rai | Guidelines for a successful career in web development |
+
+  - Dr. HS Rai is the controller of examinations (COE) in GNDEC.
+  - He told the students about a course called- **Google power searching with google**
+  - He introduced the students to a new search engine known as **DuckDuckGo**.
+  - He also stated that over 20% over the globe is produces by indians.
+  - He talked about the concept of **DRY ( Do not Repeat Yourself)**
+  - In web development, it's often said that making mistakes is part of the learning process. The key to a successful career lies in learning from these mistakes and ensuring they are not repeated.
+  - Concluding his lecture, he mentioned his Telegram group **CodeGNE**, which assists aspiring developers in working on significant projects as beginners, thereby enhancing their skills for future opportunities with large companies.
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+  
+  
   
 
 
