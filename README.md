@@ -29,7 +29,7 @@ Activity report of student induction programme 2024
   these are the college level societies
   - **(ISHRAE), (ASME), (CSI), (PFA), Causmic Club, English Club, E-cell and IIC, ITIAN Club**
   - The lecturer concluded by emphasizing the 3 P's of Success: **Passion, Persistence, and Patience.**
-
+---
 
 
 
