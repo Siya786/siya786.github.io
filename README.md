@@ -17,7 +17,7 @@ Activity report of student induction programme 2024
 2. **Active members**-engaged in all types of activities
 3. **Executive member**-who implement the plan or activity and handle all arrangements
 4. **Office bearer**-excellent in all areas
-   -Sir told us about two types of socities:-
+- Sir told us about two types of socities:-
    1. **National level society**
   2.  **College level society**
 - SCIE **(Student chapter of institution og engineers)**- It is an organization responsible for overseeing the field of engineering, encompassing 17 engineering disciplines.
