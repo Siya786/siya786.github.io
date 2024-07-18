@@ -111,6 +111,7 @@ Activity report of student induction programme 2024
 | Date | Resource Person | Topic |
 | --- | --- | --- |
 | 15-07-2024 |Dr. Pyarelal Garg | Understanding Human Behaviour |
+
 **In the course of his lecture, Sir offered these valuable insights**
 - Everything has changed in today’s world except human behaviour.
 - Everyone wants a chance to change the world.
