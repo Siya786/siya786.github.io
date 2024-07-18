@@ -194,8 +194,109 @@ Activity report of student induction programme 2024
 - self requirements are continuous while body requirements are discontinuous.
 - Needs of self are qualitative while needs of body are quantitative.
 - Needs of self are fulfilled by right understanding and right feeling while needs of body are fulfilled by physio-chemical things.
-- activities of self are desire,thoughts and expectations while activities of body are walking,eating and sleeping etc
-- 
+- Activities of self are desire,thoughts and expectations while activities of body are walking,eating and sleeping etc
+- Self is a consious entity while body is the domain of materialistic thing.
+- We recognise the activity of body and fulfilling it but in self we not only recognise , for fulfilling thereb are 4 steps:-
+  1. Knowing
+  2. assuming
+  3. recognising
+  4. fulfilling
+- Desires, thoughts and expectations together make up our imagination.
+- Preconditioning, Sensation and Natural acceptance affect our imagination
+
+---
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 17-07-2024 | Seniors of 2nd year | intoduction to basic concept of CANVA |
+
+**Seniors told us various things about canva like video editing , reel , poster,they following things to us:-**
+- What is canva?
+- they told us about different features of canva such as:-
+- **Big Template Library**-It has hundreds and thousands of templates
+- **Availability**-It is readily available and easily usable on mobile phones
+- **Drag and Drop Feature**-Various graphics, pictures and other elements are provided side by side
+- **Colour pallete**-You can change the colour of background of your poster and your text as well
+- **Magic Switch and Image Edit0ing**-Image gets edited with the use of Artificial Intellegence(AI)
+- No experience is required for canva, you can start as a beginner
+- You can make money by freelancing in graphic designing using canva
+  **This is a flyer created  by me under the guidence of my seniors given during lecture
+
+  ---
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 18-07-2024 | Pf. Dr. Harpal Singh Pannu | Sikh history and its application for students |
+
+- Dr. Harpal Singh Pannu is an  reciter of short stories related to sikh history.
+- He said that books are like music.
+- He believes that hardwork is in our own hands
+- He mentions that during their master's degree, Professor Narender Kalia was proficient in English and Urdu literature.
+- He recounted the incident of his admission to school at the age of 7, despite having been uneducated for a long time, and still managed to rank first among all 14 villages in the annual examination.
+- He talked about the udasiyas (trips for spreading religious values) of Guru nanak dev ji and its impact in the whole country
+- He taught us the meaning of selflessness, purity, loyalty and honesty
+
+---
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 18-07-2024 | Pf. Jasmine Kaur | Understanding Harmony in the Family |
+
+- A relationship exists between oneself and another.
+- We built relationship with friends and teachers etc
+- There are 9 types of felling:-
+  1. Trust
+  2. Respect
+  3. Affection
+  4. Care
+  5. Guidence
+  6. Reverence
+  7. Glory
+  8. Gratitude
+  9. Love
+- Trust is a foundation value in which person has intention to make you happyy
+- You had intention to make someone happy but due to circumstances you fail, then also there can be considered trust
+- If we are unable to unhappy ourself then we can not keep other person happy as well
+- Intention is a part of natural acceptance.
+- Feeling of disrespect generated when we over evaluate , under evaluate and otherwise evaluate someone.
+- Treating someone as animal is called otherwise evaluation and it is also a disrespect
+- If the potential of both the person is same then respect generates.
+- In respect we are complimentary to each other .
+- If we discriminate a person on the basis of age, physical attributes, physical strength, physical property etc. then we are disrespecting that person.
+
+ ---
+
+ | Date | Resource person | Topic |
+ | --- | --- | --- |
+ | 18-07-2024 | Dr. Harvinder singh and Er. Jasvir Singh Grewal	| NCC and NSS |
+
+- Dr. Harvinder singh told us about NCC and why we should opt for nNCC
+- He told us about the extra activites.
+- He listed down SAHARA scholarship and its benefits to NCC cadets
+- He explained the life skills provided by Who.
+- Then Er. Jasvir Singh Grewal told us about the National Service Scheme (NSS)
+- NSS provides an opportunity to the students to become a better person in their life and save the environment which in turn saves thousand of lives
+- He talked abot the stem cells as a cure to blood cancer patients
+- he said that we should plant more and more trees .
+- He mentioned how participating in NSS activities makes person good and more confident,
+- In conclusion, he introduced the concept of reverse engineering and, by applying it, named the auditorium "Soil," emphasizing that everything ultimately originates from the soil.
+
+
+
+
+
+
+ 
+
+ 
+  
+ 
+
+
+ 
+
+  
+ 
 
 
 
