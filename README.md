@@ -192,6 +192,9 @@ Activity report of student induction programme 2024
 - The needs of self are:- **respect, love, glory, reverence, gratitude etc**
 - Body can be touched while self can only be felt like harsh words affect the self not to body.
 - self requirements are continuous while body requirements are discontinuous.
+- Needs of self are qualitative while needs of body are quantitative.
+- Needs of self are fulfilled by right understanding and right feeling while needs of body are fulfilled by physio-chemical things.
+- activities of self are desire,thoughts and expectations while activities of body are walking,eating and sleeping etc
 - 
 
 
