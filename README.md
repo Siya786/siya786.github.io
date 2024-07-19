@@ -281,6 +281,15 @@ Activity report of student induction programme 2024
 - He mentioned how participating in NSS activities makes person good and more confident,
 - In conclusion, he introduced the concept of reverse engineering and, by applying it, named the auditorium "Soil," emphasizing that everything ultimately originates from the soil.
 
+---
+
+| Date | Resource Person | Topic |
+| --- | --- | --- |
+| 19-07-2024 | Er.Kanwadeep Kalra | Campus To Corporate |
+
+
+
+
 
 
 
