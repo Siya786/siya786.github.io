@@ -220,7 +220,7 @@ Activity report of student induction programme 2024
 - **Magic Switch and Image Edit0ing**-Image gets edited with the use of Artificial Intellegence(AI)
 - No experience is required for canva, you can start as a beginner
 - You can make money by freelancing in graphic designing using canva
-- 
+  ![causmic club](https://github.com/user-attachments/assets/9aa21e84-7cde-4445-a145-93eb43004e51)
   **This is a flyer created  by me under the guidence of my seniors given during lecture**
 
   ---
