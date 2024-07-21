@@ -324,6 +324,30 @@ Activity report of student induction programme 2024
 - In summary, Sir's lecture shows that he is an innovative thinker and a dedicated advocate with a profound love and passion for science and mathematics. **His words may eventually fade, but his awards and achievements will persist**.
 
    ---
+
+  ![EXCEL CERTIFICATE](https://github.com/user-attachments/assets/da7b9ea2-792a-4515-a91a-c249187b671d)
+
+  **My Excel Course Experience**
+  This is my certificate of completion of the microsoft excel course by the Great Learning.In this course, i learnt various technical skills and operations.The course covered essential features of excel,from the basic functionalities to more advanced data analysis techniques.the video quality was also good and every single concept weer explained clearly by the instructor.In the course they also conduct quiz  to assess how much we had learned.
+  **they asked various question in the quiz such as :-**
+  - What is **absolute referrencing, relative refferencing and mixed referrencing**?
+  - How to concatenate or join the data?
+  - How to filter and sort data?
+  - How to get the sum of all values?
+  - How to find the value of a particular cell in any row or column using the **VLOOKUP and HLOOKUP** functions?
+  - What are the uses of if and else functions?
+  - What are the uses of AND or OR functions?
+    
+   
+
+
+
+
+
+
+ 
+  
+
   
 
 
