@@ -288,6 +288,57 @@ Activity report of student induction programme 2024
 | --- | --- | --- |
 | 19-07-2024 | Er.Kanwadeep Kalra | Campus To Corporate |
 
+**She supported us in crafting a way for our journey from students to corporate employees by enumerating the following points:-**
+- Ma'am started with a role play that showcased job interviews with different individuals.
+- Each individual had their own way of talking and behavior.
+- she asked us various question such as Who is transitioning? What is the challenge? When does this transition occurs? Where does this transition happen? Why transitioing is important? How we can overcome these challanges?
+- She told us about workplace culture and dynamics.
+- She told us that Proper attire also leads us toward success.
+- The principle for transition of campust to corporate are:-
+  1. **Learn**
+  2. **Unlearn**
+  3. **Relearn**
+- It's all about the **C'S** i.e:- Compensation, Childhood, Campus, Corporate career etc.
+- Ultimately, at the end of the day, the only 'C' that truly matters is compensation.
+- Besides the technology aspect, competencies matter like skills, team building etc.
+- **Behaviour** and **confidence** is beyond our classroom
+- According to Harvard, well dveloped people have well developed soft skills
+- We should bridge the gap, overcome the **C's**
+- Your basic manners are your soft skills
+- Hard skills include:-coding,C++,language skills etc
+- You should know why you have chosen engineering
+
+---
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 19-07-2024 | Jaswinder singh | The amazing aspects of mathematics and science |
+
+**Dr. Jaswinder Singh, the present head of the Indian Association of Physics Teachers (IAPT), captivated us with his remarkable knowledge and experiments in the following ways:**
+- He told us that nothing in this world is without maths.
+- He clarified the precise number and placement of the 206 bones in the human skeleton by presenting the numbers 26, 27, and 28.
+- He told us a trick to memorize the  table of 8 by giving us a code i.e 86420
+- He explained the concept of conductance with a rain alarm very well
+- He mentioned that while we have all come across these experiments in our textbooks, we have rarely taken the time to actually try them.
+- Trying these experiments practically gives the clearance to the concepts and makes way for any invention in the future
+- In summary, Sir's lecture shows that he is an innovative thinker and a dedicated advocate with a profound love and passion for science and mathematics. **His words may eventually fade, but his awards and achievements will persist**.
+
+   ---
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
