@@ -337,6 +337,12 @@ Activity report of student induction programme 2024
   - How to find the value of a particular cell in any row or column using the **VLOOKUP and HLOOKUP** functions?
   - What are the uses of if and else functions?
   - What are the uses of AND or OR functions?
+
+    ---
+
+  | Date | Resource Person | Topic |
+  | --- | --- | --- |
+  | 22-07-2024 | Dr.S.B Singh | our dream and what we should do to fulfill it |
     
    
 
