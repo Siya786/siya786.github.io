@@ -6,7 +6,7 @@ Activity report of student induction programme 2024
 | --- | --- | --- |
 | 11-07-2024 | Dr. Arwind Dhingra | Systematic Training And Education Programme | 
 
-## ***Sir imparted their golden words by enumerating all the following ideals:-*** ##
+## Sir imparted their golden words by enumerating all the following ideals:- ##
  - The influence of **DESTINY** in transforming an aimless life into one with a meaningful purpose, helping us realize that life is indeed worth living.
 - The essential principle of **CHANGE** and **GROWTH.**
 - 'I' plays an important role in our life,only **I** can facilitate my own change and growth if I am determined enough."
