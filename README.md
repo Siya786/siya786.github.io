@@ -342,7 +342,52 @@ Activity report of student induction programme 2024
 
   | Date | Resource Person | Topic |
   | --- | --- | --- |
-  | 22-07-2024 | Dr.S.B Singh | our dream and what we should do to fulfill it |
+  | 22-07-2024 | Dr. S.B. Singh and Dr. Pushpinder Singh | Know Yourself and How to Learn Things From Nature |
+
+  ***Firstly, Dr. S.B. Singh assigned us the following task and provided valuable advice in this manner:-***
+  - He instructed us to tear out pages from our notebooks and write our names, our parents' names, their mobile numbers, our mobile numbers, and some of our academic details on them.
+  - Then he asked us questions regarding our hobbies, our aim in life, things we are doing to fulfill that aim, the flaws we find in the education system on GNDEC and what is our suggestion to resolve the issues if there are any.
+  - He then explained that the purpose behind writing all this information was to remind us of who we are and our ambitions in life.
+  - He told us that besides running for packages after your graduation, Be your own **package**.
+  - Develop such a high level of excellence and skills that instead of you chasing job offers, companies seek you out and offer you the package of your choice.
+  - He told us to read books like **The Igniited Minds** by Dr. APJ Abdul Kalam to make our lives at ease.
+  - He gave us the slogan of **No Tesnsion, Full Attention**.
+ 
+  ## **Then, Dr. Pushpinder Singh arrived and imparted the following knowledge to us:-** ##
+
+  - He began by asking us the following questions: "How many of you retain the lecture by only listening?", "How many of you retain the lecture by taking notes?", and "How many of you retain the lecture by relating book knowledge to real life?"
+  - His main goal in asking these questions was to understand the students' study habits.
+  - Then he taught us the meaning of **surface learning** and **deep learning**.
+  - When we read a book only and just accept the facts provided in the lessons without checking them is known as surface learning.
+  - When we read a book and analyse the facts provided in any lesson by comparing them with real life things is known as deep learning.
+  - Another great technique for learning is to teach the material to a friend. This method helps reinforce the information in your subconscious mind.
+  - He then provided a powerful example of living with gratitude by illustrating how bamboo trees bend with the storm and survive, whereas trees like peepal that remain rigid are blown away. This demonstrated that we should adopt a flexible, positive attitude to navigate challenging situations in life.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+   
+
+
+
+
+
+
+
+
+  
     
    
 
