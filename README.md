@@ -353,7 +353,7 @@ Activity report of student induction programme 2024
   - He told us to read books like **The Igniited Minds** by Dr. APJ Abdul Kalam to make our lives at ease.
   - He gave us the slogan of **No Tesnsion, Full Attention**.
  
-  ### **Then, Dr. Pushpinder Singh arrived and imparted the following knowledge to us:-** ###
+### **Then, Dr. Pushpinder Singh arrived and imparted the following knowledge to us:-** ###
 
   - He began by asking us the following questions: "How many of you retain the lecture by only listening?", "How many of you retain the lecture by taking notes?", and "How many of you retain the lecture by relating book knowledge to real life?"
   - His main goal in asking these questions was to understand the students' study habits.
