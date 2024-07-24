@@ -91,15 +91,15 @@ Activity report of student induction programme 2024
 
       | Date | Resource Person | Topic |
       | --- | --- | --- |
-      | 12-07-2024 |    | Mathematics |
+      | 12-07-2024 | sukhbir singh   | Mathematics |
 
-    **In her lecture,professor told us the following things:-**
+    **In his lecture,professor told us the following things:-**
     - concept of integration.
-    -  She also explain the concept of degree and order.
+    -  He also explain the concept of degree and order.
     -  told us about various types;-
       1. Ordinary differential equation
       2. partial differential equatio.
-    - she also explain the concept of solution of a differential equation
+    - He also explain the concept of solution of a differential equation
     - various types of solution:-
       1. General solution
       2. particular solution
@@ -362,6 +362,84 @@ Activity report of student induction programme 2024
   - When we read a book and analyse the facts provided in any lesson by comparing them with real life things is known as deep learning.
   - Another great technique for learning is to teach the material to a friend. This method helps reinforce the information in your subconscious mind.
   - He then provided a powerful example of living with gratitude by illustrating how bamboo trees bend with the storm and survive, whereas trees like peepal that remain rigid are blown away. This demonstrated that we should adopt a flexible, positive attitude to navigate challenging situations in life.
+
+---
+
+| Date | Resource Person | Topic |
+| --- | --- | --- |
+| 23-07-2024 | Seniors of 2nd year | Peer Interaction about college |
+
+**The following knowledge was given to us by our senior:-**
+- Firstly,He guided us formaintaning a balance between studies and other skills in life.
+- He emphasized the significant importance of communication skills, noting that they can have a greater impact even if our academic performance is slightly lacking.
+- He told us about the internal exams, How to score well in MST's etc
+- He told us the entire process to apply for gate pass and bus pass.
+- He told us that there are only 2 STEP (Science and Technology Park) in the whole of North India. One is in Thapar Institute of Engineering and Technology and the other one is in our college.
+- At last he told us to explore ourselves in the college and be free from any kind tension. He also told us his room number in hostel so students can take help from him if in any problem
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 23-07-2024 | Sukhbir Singh | Integration |
+
+**Sir, as a mathematics teacher, instructed us on the following mathematical concepts and offered the following valuable advice:**
+- One of the biggest problem in maths we do is we do not practice it and just learn it which ultimately lead to bad scores in exams.
+- Mathematics is the core of all the other subjects such as Physics, Chemistry etc.
+- Then he made us write practice problems of integration.
+- These problems included subtopics such as:- Integration by partial fractions, Integration by parts, General integration, Taking roots of a polynomial and various other identities of interation
+- He also showed us a method for tackling multifunctional integration problems, which helped us save time.
+
+---
+
+| Date | Resource person | Topic |
+| --- | --- | --- |
+| 24-07-2024 | Mr. Gauravdeep Singh | Mr. Gauravdeep Singh |
+
+## **Mr. Gauravdeep Singh is the head of the Initiators of Change (IOC) organization. Throughout his life, he has received numerous awards and accolades. He shared his personal experiences with us and provided the following guidance:** ##
+
+- First, he shared his life story, explaining how he overcame the pressure of a 40 lakh loan through sheer determination and strength.
+- He talked about how he used to get good marks even he was not a bookworm.
+- His first mentor told him the method of knowing yourself. It meant that we should look at ourselves and analyse what we are, what we are doing and what does we want.
+- This realization made him understand that he was pursuing the wrong path, leading him to switch from science to mass communication, where he achieved 96% in his first term exams.
+- He then enrolled at S.D. College in Chandigarh, where he was excelling in his mass media and communication studies. However, due to insufficient funds, his father asked him to return home, much to his dismay.
+- When suddenly everything got lost again, he was mentored by someone who told him that whatevers happens is the will of god.
+- Hearing this he started an organisation named, **Initiaters Of Change**.
+- He began planting trees during cleanliness drives and helping the poor, which eventually led to the greatest opportunity of his life: an offer from the Election Commission of India.
+- He was asked by the ECI to go in various parts of the country and spread awareness among citizens regarding votes.
+- He then grasped the significance of his work and began conducting sessions at colleges, which helped him gain both popularity and financial rewards.
+- In this way he told us to never give up , always try for all the possibilities and explore your skills by writing on paper about your capabilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
