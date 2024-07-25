@@ -408,6 +408,11 @@ Activity report of student induction programme 2024
 - He then grasped the significance of his work and began conducting sessions at colleges, which helped him gain both popularity and financial rewards.
 - In this way he told us to never give up , always try for all the possibilities and explore your skills by writing on paper about your capabilities
 
+---
+
+
+
+
 
 
 
